@@ -8,14 +8,3 @@ input the product name and the output of prices of the product from both website
 For example:
 FDT Women's Leggings from Flipkart should be matched with FDT WOMEN'S Leggings Pants from
 Amazon
-Once we input the product details, the output should be as follows:
-Product name in Flipkart
-Retail Price in
-Flipkart
-Discounted Price in
-Flipkart
-Product name in Amazon
-Retail Price in
-Amazon
-Discounted Price in Amazon
-FDT Women's Leggings 699 309 FDT WOMEN'S Leggings Pants 698 362
